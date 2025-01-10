@@ -1,5 +1,4 @@
 # As a note for grading purposes, I wasn't able to rename my account to contain my name, but this submission and the account labelled "Bagelsause" is "Robert Beliveau" in Canvas.
-# Along with this, for the "five additional documents", my query was explicitly 'Computer Automation' but I was looking for past references with automation affecting unemployment and society's perception of it, similar to 'taking our jobs'.
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/C9zhxHID)
 # CS6200 / IS4200: Relevance Judgments
